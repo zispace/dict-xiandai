@@ -1,8 +1,8 @@
-const DEBUG = true;
+const DEBUG = false;
 const PAGE_CONFIGS = {
-    content: { count: 1, prefix: "" },
-    header: { count: 0, prefix: "A" },
-    footer: { count: 0, prefix: "C" },
+    content: { count: 1766, prefix: "" },
+    header: { count: 94, prefix: "A" },
+    footer: { count: 37, prefix: "C" },
 };
 
 const FILE_MAPPING = {

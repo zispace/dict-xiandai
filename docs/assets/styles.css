@@ -80,7 +80,7 @@ header h1 {
 
 .search-logo {
   height: 40px;
-  width: 40px;
+  /* width: 40px; */
   margin-right: 1rem;
   transition: transform 0.3s ease;
 }
